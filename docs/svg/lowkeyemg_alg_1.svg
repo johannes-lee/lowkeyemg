@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 396.359 347.295">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+        font-size: 6.974px;
+      }
+
+      .cls-1, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-25, .cls-26, .cls-27, .cls-28, .cls-29, .cls-30, .cls-3, .cls-31, .cls-4, .cls-32, .cls-33, .cls-34, .cls-35, .cls-36, .cls-37, .cls-6, .cls-38, .cls-39, .cls-40, .cls-41, .cls-42, .cls-43, .cls-44, .cls-45, .cls-46, .cls-47, .cls-48, .cls-49, .cls-50, .cls-51, .cls-52, .cls-53, .cls-54, .cls-55, .cls-56, .cls-57, .cls-58, .cls-59, .cls-60, .cls-61, .cls-62, .cls-63, .cls-64, .cls-65, .cls-66, .cls-67, .cls-8, .cls-68, .cls-69 {
+        font-family: TimesNewRomanPSMT, 'Times New Roman';
+      }
+
+      .cls-2 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2, .cls-70, .cls-71, .cls-72, .cls-73, .cls-74, .cls-75, .cls-76, .cls-77, .cls-78, .cls-79, .cls-80, .cls-81, .cls-82, .cls-83, .cls-84, .cls-85, .cls-86, .cls-87, .cls-5, .cls-88, .cls-89, .cls-90, .cls-7 {
+        font-family: TimesNewRomanPS-ItalicMT, 'Times New Roman';
+        font-style: italic;
+      }
+
+      .cls-91 {
+        letter-spacing: -.036em;
+      }
+
+      .cls-92 {
+        letter-spacing: -.025em;
+      }
+
+      .cls-92, .cls-93, .cls-94, .cls-95, .cls-96, .cls-97, .cls-98, .cls-99, .cls-100 {
+        font-family: TimesNewRomanPS-BoldMT, 'Times New Roman';
+        font-weight: 700;
+      }
+
+      .cls-92, .cls-71, .cls-94, .cls-10, .cls-95, .cls-12, .cls-13, .cls-14, .cls-73, .cls-101, .cls-21, .cls-23, .cls-24, .cls-26, .cls-77, .cls-80, .cls-28, .cls-81, .cls-82, .cls-85, .cls-31, .cls-86, .cls-33, .cls-97, .cls-37, .cls-42, .cls-43, .cls-44, .cls-46, .cls-53, .cls-55, .cls-56, .cls-57, .cls-60, .cls-62, .cls-63, .cls-64, .cls-65, .cls-67, .cls-68 {
+        font-size: 9.963px;
+      }
+
+      .cls-93, .cls-96 {
+        letter-spacing: -.025em;
+      }
+
+      .cls-102 {
+        stroke-width: .398px;
+      }
+
+      .cls-102, .cls-103 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-70 {
+        font-size: 6px;
+      }
+
+      .cls-71 {
+        letter-spacing: .167em;
+      }
+
+      .cls-9, .cls-37, .cls-90, .cls-104 {
+        letter-spacing: .25em;
+      }
+
+      .cls-10, .cls-95, .cls-48 {
+        letter-spacing: 0em;
+      }
+
+      .cls-11, .cls-75, .cls-42, .cls-105 {
+        letter-spacing: -.009em;
+      }
+
+      .cls-12 {
+        letter-spacing: -.039em;
+      }
+
+      .cls-13 {
+        letter-spacing: -.092em;
+      }
+
+      .cls-14, .cls-106, .cls-38, .cls-100 {
+        letter-spacing: .249em;
+      }
+
+      .cls-15 {
+        letter-spacing: -.028em;
+      }
+
+      .cls-16 {
+        letter-spacing: -.009em;
+      }
+
+      .cls-17 {
+        letter-spacing: .278em;
+      }
+
+      .cls-18 {
+        letter-spacing: -.027em;
+      }
+
+      .cls-18, .cls-19, .cls-20, .cls-96, .cls-89, .cls-40, .cls-107, .cls-98, .cls-54, .cls-58 {
+        font-size: 10px;
+      }
+
+      .cls-72, .cls-80, .cls-108, .cls-52, .cls-68 {
+        letter-spacing: 0em;
+      }
+
+      .cls-19 {
+        letter-spacing: -.027em;
+      }
+
+      .cls-73, .cls-31, .cls-97, .cls-45, .cls-109 {
+        letter-spacing: 0em;
+      }
+
+      .cls-74, .cls-110, .cls-49, .cls-65 {
+        letter-spacing: .25em;
+      }
+
+      .cls-21 {
+        letter-spacing: -.024em;
+      }
+
+      .cls-22, .cls-55 {
+        letter-spacing: .309em;
+      }
+
+      .cls-76, .cls-26, .cls-27, .cls-111 {
+        letter-spacing: .25em;
+      }
+
+      .cls-23, .cls-86, .cls-88, .cls-51 {
+        letter-spacing: 0em;
+      }
+
+      .cls-24 {
+        letter-spacing: -.014em;
+      }
+
+      .cls-25 {
+        font-size: 27.171px;
+      }
+
+      .cls-77 {
+        letter-spacing: .167em;
+      }
+
+      .cls-78, .cls-41, .cls-112 {
+        letter-spacing: -.014em;
+      }
+
+      .cls-28 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-29 {
+        letter-spacing: -.024em;
+      }
+
+      .cls-81 {
+        letter-spacing: .167em;
+      }
+
+      .cls-82 {
+        letter-spacing: .166em;
+      }
+
+      .cls-83, .cls-58 {
+        letter-spacing: .167em;
+      }
+
+      .cls-84 {
+        letter-spacing: 0em;
+      }
+
+      .cls-30 {
+        letter-spacing: -.028em;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-113 {
+        letter-spacing: -.079em;
+      }
+
+      .cls-4 {
+        letter-spacing: .001em;
+      }
+
+      .cls-32 {
+        letter-spacing: -.082em;
+      }
+
+      .cls-87 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-33 {
+        letter-spacing: .31em;
+      }
+
+      .cls-34 {
+        letter-spacing: 0em;
+      }
+
+      .cls-35, .cls-60 {
+        letter-spacing: .278em;
+      }
+
+      .cls-36 {
+        letter-spacing: -.014em;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-103 {
+        stroke-width: .797px;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-39, .cls-114 {
+        letter-spacing: .309em;
+      }
+
+      .cls-40 {
+        letter-spacing: .166em;
+      }
+
+      .cls-43, .cls-115, .cls-61 {
+        letter-spacing: .249em;
+      }
+
+      .cls-44 {
+        letter-spacing: -.027em;
+      }
+
+      .cls-116, .cls-59 {
+        letter-spacing: -.024em;
+      }
+
+      .cls-46 {
+        letter-spacing: -.039em;
+      }
+
+      .cls-47 {
+        letter-spacing: -.034em;
+      }
+
+      .cls-50 {
+        letter-spacing: .222em;
+      }
+
+      .cls-53 {
+        letter-spacing: 7.61em;
+      }
+
+      .cls-54 {
+        letter-spacing: .245em;
+      }
+
+      .cls-57 {
+        letter-spacing: .999em;
+      }
+
+      .cls-117 {
+        letter-spacing: .306em;
+      }
+
+      .cls-62 {
+        letter-spacing: -.024em;
+      }
+
+      .cls-63 {
+        letter-spacing: -.009em;
+      }
+
+      .cls-64 {
+        letter-spacing: .278em;
+      }
+
+      .cls-118 {
+        letter-spacing: .337em;
+      }
+
+      .cls-67 {
+        letter-spacing: -.083em;
+      }
+
+      .cls-69 {
+        letter-spacing: -.014em;
+      }
+    </style>
+  </defs>
+  <line class="cls-103" x1=".359" y1=".398" x2="396.359" y2=".398"/>
+  <text class="cls-101" transform="translate(0 9.653)"><tspan class="cls-99" x="0" y="0">Algorith</tspan><tspan class="cls-100" x="35.973" y="0">m</tspan><tspan class="cls-99" x="46.753" y="0" xml:space="preserve">1  </tspan><tspan class="cls-45" x="56.715" y="0">L</tspan><tspan class="cls-59" x="62.801" y="0">o</tspan><tspan class="cls-52" x="67.543" y="0">w</tspan><tspan class="cls-59" x="74.738" y="0">K</tspan><tspan class="cls-41" x="81.693" y="0">e</tspan><tspan class="cls-66" x="85.976" y="0">yEM</tspan><tspan class="cls-49" x="105.901" y="0">G</tspan><tspan class="cls-52" x="115.586" y="0">bea</tspan><tspan class="cls-38" x="129.411" y="0">m</tspan><tspan class="cls-66" x="139.641" y="0">searc</tspan><tspan class="cls-9" x="160.102" y="0">h</tspan><tspan class="cls-66" x="167.573" y="0">wit</tspan><tspan class="cls-9" x="180.304" y="0">h</tspan><tspan class="cls-66" x="187.776" y="0">to</tspan><tspan class="cls-16" x="195.525" y="0">k</tspan><tspan class="cls-66" x="200.417" y="0">enize</tspan><tspan class="cls-27" x="221.431" y="0">d</tspan><tspan class="cls-48" x="228.904" y="0">LM</tspan></text>
+  <line class="cls-102" x1=".359" y1="14.002" x2="396.359" y2="14.002"/>
+  <text class="cls-56" transform="translate(10.322 24.994)"><tspan class="cls-117" x="0" y="0">D</tspan><tspan class="cls-109" x="10.243" y="0">← dictionar</tspan><tspan class="cls-110" x="58.105" y="0">y</tspan><tspan class="cls-108" x="65.578" y="0">o</tspan><tspan class="cls-106" x="70.559" y="0">f</tspan><tspan class="cls-116" x="76.357" y="0">v</tspan><tspan x="81.099" y="0">ali</tspan><tspan class="cls-104" x="91.057" y="0">d</tspan><tspan class="cls-105" x="98.529" y="0">w</tspan><tspan x="105.634" y="0">ord</tspan><tspan class="cls-110" x="118.914" y="0">s</tspan><tspan class="cls-109" x="125.282" y="0">(o</tspan><tspan class="cls-111" x="133.581" y="0">r</tspan><tspan class="cls-108" x="139.389" y="0">to</tspan><tspan class="cls-105" x="147.138" y="0">k</tspan><tspan x="152.03" y="0">ens)</tspan></text>
+  <text class="cls-56" transform="translate(10.322 35.902)"><tspan class="cls-118" x="0" y="0">G</tspan><tspan x="10.552" y="0">← mappin</tspan><tspan class="cls-115" x="52.888" y="0">g</tspan><tspan x="60.35" y="0">o</tspan><tspan class="cls-106" x="65.332" y="0">f</tspan><tspan x="71.13" y="0">character</tspan><tspan class="cls-110" x="107.624" y="0">s</tspan><tspan x="113.991" y="0">t</tspan><tspan class="cls-104" x="116.759" y="0">o</tspan><tspan x="124.231" y="0">gestures</tspan></text>
+  <text transform="translate(10.322 46.813)"><tspan><tspan class="cls-85" x="0" y="0">C</tspan><tspan class="cls-6" x="6.645" y="0">p</tspan><tspan class="cls-8" x="10.139" y="0">rev</tspan><tspan class="cls-20" x="19.043" y="0" xml:space="preserve">  </tspan><tspan class="cls-60" x="24.043" y="0">←</tspan><tspan class="cls-31" x="36.775" y="0">{(“”)}</tspan><tspan class="cls-55" x="61.818" y="0">:</tspan><tspan class="cls-56" x="67.665" y="0">candidate</tspan><tspan class="cls-65" x="105.832" y="0">s</tspan><tspan class="cls-68" x="112.2" y="0">o</tspan><tspan class="cls-14" x="117.181" y="0">f</tspan><tspan class="cls-56" x="122.979" y="0">pr</tspan><tspan class="cls-62" x="131.278" y="0">e</tspan><tspan class="cls-68" x="135.461" y="0">viou</tspan><tspan class="cls-26" x="153.172" y="0">s</tspan><tspan class="cls-42" x="159.541" y="0">w</tspan><tspan class="cls-68" x="166.646" y="0">ords, used to build </tspan><tspan class="cls-86" x="242.746" y="0">C</tspan></tspan></text>
+  <text class="cls-101" transform="translate(10.322 57.722)"><tspan class="cls-79" x="0" y="0" xml:space="preserve">C  </tspan><tspan class="cls-35" x="11.626" y="0">←</tspan><tspan class="cls-66" x="24.358" y="0">{(“”)}</tspan><tspan class="cls-22" x="49.401" y="0">:</tspan><tspan class="cls-66" x="55.248" y="0">current candidates to be displayed</tspan></text>
+  <text class="cls-101" transform="translate(10.322 68.63)"><tspan class="cls-79" x="0" y="0">s </tspan><tspan class="cls-66" x="6.368" y="0">← 0: selection index (1-indexed)</tspan></text>
+  <text class="cls-107" transform="translate(10.322 79.54)"><tspan class="cls-93" x="0" y="0">f</tspan><tspan class="cls-99" x="3.08" y="0">or </tspan><tspan class="cls-29" x="15.019" y="0">K</tspan><tspan class="cls-36" x="22" y="0">e</tspan><tspan class="cls-66" x="26.299" y="0">y </tspan><tspan class="cls-79" x="33.799" y="0">z</tspan></text>
+  <text class="cls-89" transform="translate(48.012 82.87) scale(.583)"><tspan x="0" y="0">i</tspan></text>
+  <text class="cls-107" transform="translate(49.632 79.54)"><tspan class="cls-79" x="0" y="0"> </tspan><tspan class="cls-66" x="2.5" y="0">in{</tspan><tspan class="cls-79" x="15.078" y="0">z</tspan></text>
+  <text class="cls-20" transform="translate(68.602 82.87) scale(.583)"><tspan x="0" y="0">1</tspan></text>
+  <text class="cls-107" transform="translate(71.517 79.54)"><tspan class="cls-83" x="0" y="0">,</tspan><tspan class="cls-79" x="4.17" y="0">...,</tspan><tspan class="cls-66" x="14.17" y="0">S</tspan><tspan class="cls-32" x="19.731" y="0">P</tspan><tspan class="cls-30" x="24.473" y="0">A</tspan><tspan class="cls-66" x="31.415" y="0">CE</tspan><tspan class="cls-83" x="44.193" y="0">,</tspan><tspan class="cls-79" x="48.363" y="0">z</tspan></text>
+  <text class="cls-107" transform="translate(123.771 82.87) scale(.583)"><tspan class="cls-84" x="0" y="0">L</tspan><tspan class="cls-66" x="5.562" y="1.715">1</tspan><tspan class="cls-34" x="10.562" y="0">+2</tspan></text>
+  <text class="cls-107" transform="translate(136.131 79.54)"><tspan class="cls-83" x="0" y="0">,</tspan><tspan class="cls-79" x="4.17" y="0">...,</tspan><tspan class="cls-66" x="14.17" y="0">S</tspan><tspan class="cls-32" x="19.731" y="0">P</tspan><tspan class="cls-15" x="24.473" y="0">A</tspan><tspan class="cls-66" x="31.415" y="0">CE</tspan><tspan class="cls-83" x="44.193" y="0">,</tspan><tspan class="cls-79" x="48.363" y="0">...</tspan><tspan class="cls-66" x="55.863" y="0">} </tspan><tspan class="cls-99" x="63.163" y="0">do</tspan></text>
+  <text class="cls-107" transform="translate(25.266 90.449)"><tspan class="cls-99" x="0" y="0">if </tspan><tspan class="cls-79" x="8.608" y="0">zi </tspan><tspan class="cls-17" x="17.778" y="0">=</tspan><tspan class="cls-66" x="26.198" y="0">B</tspan><tspan class="cls-15" x="32.868" y="0">A</tspan><tspan class="cls-66" x="39.81" y="0">CKS</tspan><tspan class="cls-32" x="59.263" y="0">P</tspan><tspan class="cls-30" x="64.004" y="0">A</tspan><tspan class="cls-66" x="70.946" y="0">CE </tspan><tspan class="cls-99" x="86.224" y="0">then</tspan></text>
+  <text class="cls-56" transform="translate(40.21 101.357)"><tspan x="0" y="0">Loa</tspan><tspan class="cls-115" x="15.489" y="0">d</tspan><tspan x="22.951" y="0">pr</tspan><tspan class="cls-116" x="31.25" y="0">e</tspan><tspan x="35.432" y="0">viou</tspan><tspan class="cls-110" x="53.144" y="0">s</tspan><tspan x="59.512" y="0">searche</tspan><tspan class="cls-110" x="89.375" y="0">r</tspan><tspan x="95.184" y="0">stat</tspan><tspan class="cls-104" x="109.019" y="0">e</tspan><tspan class="cls-109" x="115.931" y="0">(i.e</tspan><tspan class="cls-114" x="128.929" y="0">.</tspan><tspan x="134.498" y="0">undo)</tspan></text>
+  <text class="cls-94" transform="translate(40.21 112.267)"><tspan x="0" y="0">continue</tspan></text>
+  <text class="cls-107" transform="translate(25.266 123.295)"><tspan class="cls-99" x="0" y="0">if </tspan><tspan class="cls-79" x="8.608" y="0">zi </tspan><tspan class="cls-17" x="17.778" y="0">=</tspan><tspan class="cls-66" x="26.198" y="0">SELECT </tspan><tspan class="cls-99" x="65.363" y="0">then</tspan></text>
+  <text class="cls-101" transform="translate(40.21 134.205)"><tspan class="cls-79" x="0" y="0">s </tspan><tspan class="cls-66" x="6.368" y="0">← </tspan><tspan class="cls-79" x="18.821" y="0">s </tspan><tspan class="cls-50" x="25.188" y="0">+</tspan><tspan class="cls-52" x="33.019" y="0">1</tspan><tspan class="cls-39" x="38" y="0">:</tspan><tspan class="cls-52" x="43.847" y="0">Queu</tspan><tspan class="cls-49" x="65.426" y="0">e</tspan><tspan class="cls-52" x="72.338" y="0">n</tspan><tspan class="cls-69" x="77.319" y="0">e</tspan><tspan class="cls-52" x="81.602" y="0">x</tspan><tspan class="cls-61" x="86.583" y="0">t</tspan><tspan class="cls-66" x="91.832" y="0">candidate</tspan></text>
+  <text class="cls-94" transform="translate(40.21 145.113)"><tspan x="0" y="0">continue</tspan></text>
+  <text class="cls-101" transform="translate(25.266 156.142)"><tspan class="cls-99" x="0" y="0">if </tspan><tspan class="cls-66" x="8.576" y="0">Selectio</tspan><tspan class="cls-61" x="40.667" y="0">n</tspan><tspan class="cls-66" x="48.129" y="0">i</tspan><tspan class="cls-49" x="50.897" y="0">s</tspan><tspan class="cls-66" x="57.265" y="0">queued </tspan><tspan class="cls-99" x="88.525" y="0">then</tspan></text>
+  <text transform="translate(40.21 167.051)"><tspan><tspan class="cls-85" x="0" y="0">C</tspan><tspan class="cls-6" x="6.645" y="0">p</tspan><tspan class="cls-8" x="10.139" y="0">rev </tspan><tspan class="cls-64" x="20.787" y="0">←</tspan><tspan class="cls-56" x="33.519" y="0">{</tspan><tspan class="cls-85" x="38.301" y="0">c</tspan><tspan class="cls-7" x="42.723" y="1">s</tspan><tspan class="cls-56" x="45.437" y="0">}</tspan><tspan class="cls-77" x="50.218" y="0">,</tspan><tspan class="cls-85" x="54.373" y="0">s </tspan><tspan class="cls-56" x="60.741" y="0">← 0</tspan><tspan class="cls-55" x="78.175" y="0">:</tspan><tspan class="cls-56" x="84.021" y="0">Commi</tspan><tspan class="cls-65" x="113.914" y="0">t</tspan><tspan class="cls-68" x="119.173" y="0">queue</tspan><tspan class="cls-43" x="142.96" y="0">d</tspan><tspan class="cls-56" x="150.422" y="0">selectio</tspan><tspan class="cls-43" x="180.85" y="0">n</tspan><tspan class="cls-56" x="188.312" y="0">o</tspan><tspan class="cls-43" x="193.293" y="0">f</tspan><tspan class="cls-56" x="199.091" y="0">candidat</tspan><tspan class="cls-37" x="232.837" y="0">e</tspan><tspan class="cls-56" x="239.75" y="0">wit</tspan><tspan class="cls-37" x="252.48" y="0">h</tspan><tspan class="cls-23" x="259.952" y="0">ind</tspan><tspan class="cls-24" x="272.682" y="0">e</tspan><tspan class="cls-10" x="276.965" y="0">x </tspan><tspan class="cls-85" x="284.437" y="0">s</tspan></tspan></text>
+  <text class="cls-101" transform="translate(40.21 177.96)"><tspan class="cls-99" x="0" y="0">S </tspan><tspan class="cls-45" x="8.031" y="0">← </tspan><tspan class="cls-47" x="20.484" y="0">T</tspan><tspan class="cls-66" x="26.231" y="0">rue</tspan><tspan class="cls-22" x="38.952" y="0">:</tspan><tspan class="cls-66" x="44.798" y="0">whethe</tspan><tspan class="cls-38" x="73.567" y="0">r</tspan><tspan class="cls-49" x="79.366" y="0">a</tspan><tspan class="cls-66" x="86.278" y="0">selectio</tspan><tspan class="cls-49" x="116.706" y="0">n</tspan><tspan class="cls-11" x="124.178" y="0">w</tspan><tspan class="cls-66" x="131.283" y="0">a</tspan><tspan class="cls-49" x="135.705" y="0">s</tspan><tspan class="cls-52" x="142.073" y="0">jus</tspan><tspan class="cls-49" x="153.699" y="0">t</tspan><tspan class="cls-66" x="158.958" y="0">committed</tspan></text>
+  <text class="cls-85" transform="translate(23.181 204.899)"><tspan x="0" y="0">M</tspan></text>
+  <text class="cls-56" transform="translate(36.7 204.899)"><tspan x="0" y="0">←</tspan></text>
+  <text transform="translate(62.636 193.945)"><tspan><tspan class="cls-56" x="0" y="0" xml:space="preserve">All valid tokens,                                                          if </tspan><tspan class="cls-85" x="219.167" y="0">z</tspan><tspan class="cls-7" x="223.044" y="0">i </tspan><tspan class="cls-56" x="226.726" y="0">= S</tspan><tspan class="cls-13" x="240.375" y="0">P</tspan><tspan class="cls-12" x="244.999" y="0">A</tspan><tspan class="cls-56" x="251.806" y="0">CE &amp; </tspan><tspan class="cls-95" x="277.267" y="0">S</tspan></tspan></text>
+  <text transform="translate(62.437 204.59)"><tspan><tspan class="cls-56" x="0" y="0">Exac</tspan><tspan class="cls-37" x="19.911" y="0">t</tspan><tspan class="cls-31" x="25.169" y="0">matche</tspan><tspan class="cls-65" x="53.933" y="0">s</tspan><tspan class="cls-56" x="60.301" y="0">an</tspan><tspan class="cls-43" x="69.704" y="0">d</tspan><tspan class="cls-56" x="77.166" y="0">clos</tspan><tspan class="cls-65" x="93.214" y="0">e</tspan><tspan class="cls-56" x="100.127" y="0">matches</tspan><tspan class="cls-53" x="132.768" y="0">,</tspan><tspan class="cls-68" x="211.074" y="0">if </tspan><tspan class="cls-85" x="219.65" y="0">z</tspan><tspan class="cls-7" x="223.527" y="0">i </tspan><tspan class="cls-56" x="227.208" y="0">= S</tspan><tspan class="cls-13" x="240.858" y="0">P</tspan><tspan class="cls-46" x="245.482" y="0">A</tspan><tspan class="cls-23" x="252.288" y="0">CE &amp; not </tspan><tspan class="cls-95" x="292.971" y="0">S</tspan></tspan></text>
+  <text transform="translate(62.437 215.5)"><tspan><tspan class="cls-56" x="0" y="0">Exac</tspan><tspan class="cls-37" x="19.911" y="0">t</tspan><tspan class="cls-31" x="25.169" y="0">matches</tspan><tspan class="cls-14" x="57.81" y="0">,</tspan><tspan class="cls-56" x="62.782" y="0">clos</tspan><tspan class="cls-65" x="78.83" y="0">e</tspan><tspan class="cls-31" x="85.742" y="0">matches</tspan><tspan class="cls-43" x="118.383" y="0">,</tspan><tspan class="cls-56" x="123.354" y="0">an</tspan><tspan class="cls-43" x="132.758" y="0">d</tspan><tspan class="cls-56" x="140.22" y="0">preﬁ</tspan><tspan class="cls-37" x="158.481" y="0">x</tspan><tspan class="cls-56" x="165.953" y="0">matches</tspan><tspan class="cls-57" x="198.595" y="0">,</tspan><tspan class="cls-56" x="211.038" y="0">if </tspan><tspan class="cls-85" x="219.614" y="0">z</tspan><tspan class="cls-7" x="223.491" y="0">i </tspan><tspan class="cls-56" x="227.172" y="0">= CHAR</tspan></tspan></text>
+  <text class="cls-85" transform="translate(25.266 230.562)"><tspan class="cls-113" x="0" y="0">P</tspan><tspan x="5.298" y="0">erfor</tspan><tspan class="cls-110" x="25.224" y="0">m</tspan><tspan class="cls-108" x="34.909" y="0">bea</tspan><tspan class="cls-104" x="49.293" y="0">m</tspan><tspan class="cls-109" x="58.979" y="0">sea</tspan><tspan class="cls-91" x="72.259" y="0">r</tspan><tspan class="cls-112" x="75.777" y="0">c</tspan><tspan class="cls-110" x="80.06" y="0">h</tspan><tspan x="87.532" y="0">wit</tspan><tspan class="cls-110" x="99.712" y="0">h</tspan><tspan x="107.185" y="0">bea</tspan><tspan class="cls-110" x="121.569" y="0">m</tspan><tspan x="131.254" y="0">width K:</tspan></text>
+  <text transform="translate(25.266 241.47)"><tspan><tspan class="cls-85" x="0" y="0">C</tspan><tspan class="cls-8" x="6.645" y="0">sear</tspan><tspan class="cls-1" x="17.872" y="0">c</tspan><tspan class="cls-8" x="20.758" y="0">h </tspan><tspan class="cls-60" x="25.988" y="0">←</tspan><tspan class="cls-31" x="38.72" y="0">{(</tspan><tspan class="cls-85" x="46.82" y="0">c</tspan><tspan class="cls-7" x="51.242" y="0">k</tspan><tspan class="cls-81" x="54.337" y="0">,</tspan><tspan class="cls-85" x="58.491" y="0">w</tspan><tspan class="cls-2" x="65.136" y="0">m</tspan><tspan class="cls-56" x="70.173" y="0">) fo</tspan><tspan class="cls-14" x="84.28" y="0">r</tspan><tspan class="cls-56" x="90.078" y="0">all </tspan><tspan class="cls-85" x="102.526" y="0">c</tspan><tspan class="cls-7" x="106.948" y="0">k </tspan><tspan class="cls-56" x="111.787" y="0">in </tspan><tspan class="cls-85" x="122.027" y="0">C</tspan><tspan class="cls-4" x="128.672" y="0">p</tspan><tspan class="cls-8" x="132.166" y="0">rev</tspan><tspan class="cls-85" x="141.07" y="0">,</tspan><tspan class="cls-42" x="143.561" y="0">w</tspan><tspan class="cls-56" x="150.666" y="0">ords </tspan><tspan class="cls-85" x="170.314" y="0">w</tspan><tspan class="cls-7" x="176.959" y="0">m </tspan><tspan class="cls-23" x="183.738" y="0">in </tspan><tspan class="cls-85" x="193.979" y="0">M</tspan><tspan class="cls-56" x="202.277" y="0">}</tspan><tspan class="cls-55" x="207.06" y="0">:</tspan><tspan class="cls-56" x="212.905" y="0">candidate</tspan><tspan class="cls-37" x="251.073" y="0">s</tspan><tspan class="cls-56" x="257.44" y="0">t</tspan><tspan class="cls-26" x="260.208" y="0">o</tspan><tspan class="cls-56" x="267.681" y="0">search</tspan></tspan></text>
+  <text transform="translate(25.266 253.375)"><tspan><tspan class="cls-96" x="0" y="0">f</tspan><tspan class="cls-98" x="3.08" y="0">or </tspan><tspan class="cls-89" x="15.019" y="0">j </tspan><tspan class="cls-20" x="20.297" y="0">in max</tspan><tspan class="cls-70" x="47.792" y="3">M</tspan><tspan class="cls-20" x="52.79" y="0">(to</tspan><tspan class="cls-18" x="63.898" y="0">k</tspan><tspan class="cls-20" x="68.628" y="0">e</tspan><tspan class="cls-58" x="73.067" y="0">n</tspan><tspan class="cls-20" x="79.737" y="0">lengt</tspan><tspan class="cls-40" x="99.732" y="0">h</tspan><tspan class="cls-20" x="106.392" y="0">o</tspan><tspan class="cls-54" x="111.392" y="0">f</tspan><tspan class="cls-19" x="117.172" y="0">w</tspan><tspan class="cls-20" x="124.124" y="0">ords) </tspan><tspan class="cls-98" x="147.176" y="0">do</tspan></tspan></text>
+  <text transform="translate(40.21 264.285)"><tspan><tspan class="cls-92" x="0" y="0">f</tspan><tspan class="cls-94" x="3.068" y="0">or </tspan><tspan class="cls-56" x="14.962" y="0">(</tspan><tspan class="cls-85" x="18.28" y="0">c</tspan><tspan class="cls-2" x="22.702" y="0">k</tspan><tspan class="cls-81" x="25.797" y="0">,</tspan><tspan class="cls-85" x="29.952" y="0">w</tspan><tspan class="cls-7" x="36.597" y="0">m</tspan><tspan class="cls-56" x="41.633" y="0">) in </tspan><tspan class="cls-85" x="57.681" y="0">C</tspan><tspan class="cls-8" x="64.326" y="0">sear</tspan><tspan class="cls-1" x="75.553" y="0">c</tspan><tspan class="cls-8" x="78.439" y="0">h </tspan><tspan class="cls-56" x="83.669" y="0">wit</tspan><tspan class="cls-14" x="96.399" y="0">h</tspan><tspan class="cls-42" x="103.862" y="0">w</tspan><tspan class="cls-68" x="110.967" y="0">ord </tspan><tspan class="cls-85" x="126.737" y="0">w</tspan><tspan class="cls-7" x="133.382" y="0">m </tspan><tspan class="cls-56" x="140.162" y="0">= to</tspan><tspan class="cls-28" x="156.021" y="0">k</tspan><tspan class="cls-56" x="160.902" y="0">ens </tspan><tspan class="cls-85" x="176.673" y="0">t</tspan><tspan class="cls-8" x="179.441" y="0">1</tspan><tspan class="cls-77" x="182.928" y="0">,</tspan><tspan class="cls-85" x="187.083" y="0">t</tspan><tspan class="cls-8" x="189.85" y="0">2</tspan><tspan class="cls-77" x="193.337" y="0">,</tspan><tspan class="cls-85" x="197.492" y="0">...</tspan><tspan class="cls-82" x="204.963" y="0">,</tspan><tspan class="cls-85" x="209.108" y="0">t</tspan><tspan class="cls-7" x="211.875" y="0">l </tspan><tspan class="cls-95" x="215.557" y="0">do</tspan></tspan></text>
+  <text class="cls-101" transform="translate(55.154 277.187)"><tspan class="cls-79" x="0" y="0">Us</tspan><tspan class="cls-74" x="11.072" y="0">e</tspan><tspan class="cls-72" x="17.984" y="0">langu</tspan><tspan class="cls-87" x="40.677" y="0">a</tspan><tspan class="cls-75" x="45.559" y="0">g</tspan><tspan class="cls-74" x="50.451" y="0">e</tspan><tspan class="cls-72" x="57.363" y="0">model </tspan><tspan class="cls-66" x="84.201" y="0">LM </tspan><tspan class="cls-79" x="101.635" y="0">an</tspan><tspan class="cls-90" x="111.598" y="0">d</tspan><tspan class="cls-78" x="119.07" y="0">c</tspan><tspan class="cls-79" x="123.352" y="0">ha</tspan><tspan class="cls-78" x="133.315" y="0">r</tspan><tspan class="cls-79" x="137.052" y="0">acte</tspan><tspan class="cls-90" x="153.646" y="0">r</tspan><tspan class="cls-88" x="160.013" y="0">model </tspan><tspan class="cls-51" x="186.851" y="0">CM </tspan><tspan class="cls-79" x="204.845" y="0">t</tspan><tspan class="cls-76" x="207.612" y="0">o</tspan><tspan class="cls-79" x="215.085" y="0">calculate</tspan><tspan class="cls-51" x="251.598" y="0">:</tspan></text>
+  <text transform="translate(55.154 289.091)"><tspan><tspan class="cls-56" x="0" y="0">Score(</tspan><tspan class="cls-85" x="26.001" y="0">c</tspan><tspan class="cls-7" x="30.423" y="0">k</tspan><tspan class="cls-81" x="33.518" y="0">,</tspan><tspan class="cls-85" x="37.672" y="0">w</tspan><tspan class="cls-2" x="44.317" y="0">m</tspan><tspan class="cls-81" x="49.354" y="0">,</tspan><tspan class="cls-80" x="53.508" y="0">j</tspan><tspan class="cls-64" x="56.276" y="0">)=</tspan><tspan class="cls-56" x="70.751" y="0">log</tspan><tspan class="cls-8" x="83.482" y="3">10</tspan><tspan class="cls-31" x="90.456" y="0">(LM(</tspan><tspan class="cls-85" x="112.035" y="0">t</tspan><tspan class="cls-7" x="114.803" y="0">j</tspan><tspan class="cls-56" x="116.74" y="0">|</tspan><tspan class="cls-85" x="118.735" y="0">c</tspan><tspan class="cls-7" x="123.157" y="0">k</tspan><tspan class="cls-81" x="126.252" y="0">,</tspan><tspan class="cls-85" x="130.406" y="0">t</tspan><tspan class="cls-8" x="133.174" y="0">1</tspan><tspan class="cls-81" x="136.661" y="0">,</tspan><tspan class="cls-73" x="140.815" y="0">...</tspan><tspan class="cls-82" x="148.287" y="0">,</tspan><tspan class="cls-86" x="152.432" y="0">t</tspan><tspan class="cls-7" x="155.2" y="0">j</tspan><tspan class="cls-8" x="157.138" y="0">−1</tspan><tspan class="cls-56" x="164.558" y="0">)·LM(</tspan><tspan class="cls-85" x="189.454" y="0">c</tspan><tspan class="cls-5" x="193.876" y="0">k</tspan><tspan class="cls-71" x="196.971" y="0">,</tspan><tspan class="cls-85" x="201.126" y="0">t</tspan><tspan class="cls-8" x="203.894" y="0">1</tspan><tspan class="cls-77" x="207.381" y="0">,</tspan><tspan class="cls-85" x="211.535" y="0">...</tspan><tspan class="cls-82" x="219.007" y="0">,</tspan><tspan class="cls-85" x="223.151" y="0">t</tspan><tspan class="cls-7" x="225.919" y="0">j</tspan><tspan class="cls-3" x="227.856" y="0">−1</tspan><tspan class="cls-56" x="235.276" y="0">)·CM(</tspan><tspan class="cls-86" x="260.732" y="0">w</tspan><tspan class="cls-7" x="267.378" y="0">m</tspan><tspan class="cls-56" x="272.414" y="0">))</tspan></tspan></text>
+  <text transform="translate(40.21 302.851)"><tspan><tspan class="cls-85" x="0" y="0">C</tspan><tspan class="cls-8" x="6.645" y="0">sear</tspan><tspan class="cls-1" x="17.872" y="0">c</tspan><tspan class="cls-8" x="20.758" y="0">h </tspan><tspan class="cls-56" x="25.988" y="0">← sequences {(</tspan><tspan class="cls-85" x="89.417" y="0">c</tspan><tspan class="cls-7" x="93.839" y="0">k</tspan><tspan class="cls-81" x="96.934" y="0">,</tspan><tspan class="cls-85" x="101.088" y="0">w</tspan><tspan class="cls-2" x="107.733" y="0">m</tspan><tspan class="cls-56" x="112.77" y="0">)} wit</tspan><tspan class="cls-65" x="136.09" y="0">h</tspan><tspan class="cls-68" x="143.562" y="0">top </tspan><tspan class="cls-85" x="158.784" y="0">K </tspan><tspan class="cls-56" x="167.919" y="0">scores</tspan></tspan></text>
+  <text transform="translate(25.266 316.25)"><tspan><tspan class="cls-85" x="0" y="0">C </tspan><tspan class="cls-60" x="9.136" y="0">←</tspan><tspan class="cls-31" x="21.868" y="0">{</tspan><tspan class="cls-85" x="26.65" y="0">c</tspan><tspan class="cls-7" x="31.072" y="0">k </tspan><tspan class="cls-56" x="35.91" y="0">+ </tspan><tspan class="cls-85" x="44.02" y="0">w</tspan><tspan class="cls-7" x="50.665" y="0">m </tspan><tspan class="cls-56" x="57.444" y="0">for (</tspan><tspan class="cls-85" x="74.869" y="0">c</tspan><tspan class="cls-7" x="79.291" y="0">k</tspan><tspan class="cls-81" x="82.386" y="0">,</tspan><tspan class="cls-85" x="86.541" y="0">w</tspan><tspan class="cls-7" x="93.186" y="0">m</tspan><tspan class="cls-31" x="98.222" y="0">) in </tspan><tspan class="cls-85" x="114.27" y="0">C</tspan><tspan class="cls-8" x="120.915" y="0">sear</tspan><tspan class="cls-1" x="132.142" y="0">c</tspan><tspan class="cls-8" x="135.028" y="0">h</tspan><tspan class="cls-56" x="138.515" y="0">}</tspan><tspan class="cls-33" x="143.296" y="0">.</tspan><tspan class="cls-56" x="148.875" y="0">Display </tspan><tspan class="cls-85" x="182.358" y="0">C</tspan><tspan class="cls-23" x="189.003" y="0">.</tspan></tspan></text>
+  <text transform="translate(25.266 329.153)"><tspan><tspan class="cls-94" x="0" y="0">if </tspan><tspan class="cls-85" x="8.576" y="0">z</tspan><tspan class="cls-7" x="12.453" y="0" xml:space="preserve">i  </tspan><tspan class="cls-60" x="17.877" y="0">=</tspan><tspan class="cls-31" x="26.266" y="0">S</tspan><tspan class="cls-67" x="31.807" y="0">P</tspan><tspan class="cls-44" x="36.521" y="0">A</tspan><tspan class="cls-56" x="43.446" y="0">CE </tspan><tspan class="cls-97" x="58.667" y="0">then</tspan></tspan></text>
+  <text transform="translate(40.21 340.061)"><tspan><tspan class="cls-85" x="0" y="0">C</tspan><tspan class="cls-6" x="6.645" y="0">p</tspan><tspan class="cls-8" x="10.139" y="0">rev </tspan><tspan class="cls-31" x="20.787" y="0">← </tspan><tspan class="cls-85" x="33.24" y="0">C</tspan><tspan class="cls-55" x="39.885" y="0">:</tspan><tspan class="cls-56" x="45.731" y="0">Stor</tspan><tspan class="cls-65" x="62.339" y="0">e</tspan><tspan class="cls-56" x="69.251" y="0">candidate</tspan><tspan class="cls-26" x="107.418" y="0">s</tspan><tspan class="cls-56" x="113.787" y="0">a</tspan><tspan class="cls-65" x="118.208" y="0">s</tspan><tspan class="cls-56" x="124.576" y="0">candidate</tspan><tspan class="cls-37" x="162.744" y="0">s</tspan><tspan class="cls-31" x="169.111" y="0">o</tspan><tspan class="cls-43" x="174.092" y="0">f</tspan><tspan class="cls-56" x="179.89" y="0">pr</tspan><tspan class="cls-21" x="188.189" y="0">e</tspan><tspan class="cls-10" x="192.373" y="0">viou</tspan><tspan class="cls-26" x="210.083" y="0">s</tspan><tspan class="cls-63" x="216.452" y="0">w</tspan><tspan class="cls-10" x="223.557" y="0">ords</tspan></tspan></text>
+  <line class="cls-102" x1=".359" y1="347.096" x2="396.359" y2="347.096"/>
+  <text class="cls-25" transform="translate(50.581 208.111) scale(.528 1)"><tspan x="0" y="0">{</tspan></text>
+</svg>

@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<title>LowKeyEMG</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="">
+<style>
+    body {
+        font-family: Arial, Helvetica, sans-serif;
+        line-height: 1.3;
+    }
+
+    .header {
+        margin: auto;
+        position: relative;
+        width: 80%;
+    }
+
+    h2 {
+        font-size: 26px;
+    }
+
+    ul {
+        padding-left: 20px;
+        font-size: 16px;
+        padding-bottom: 3px;
+    }
+
+    .author {
+        margin: auto;
+        width: 96%;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: top;
+    }
+
+    .author > div {
+        text-align: center;
+        font-size: 20px;
+        padding-bottom: 5px;
+        padding-right: 10px;
+        padding-left: 10px;
+        min-width: 60px;
+    }
+
+    .summary {
+        width: 100%;
+        position: relative;
+        margin: auto;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .summary > div {
+        background-color: #f0fafc;
+        padding-right: 5px;
+        padding-left: 5px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        margin-right: 5px;
+        margin-left: 5px;
+        min-width: 300px;
+        max-width: 700px;
+        border-radius: 5px;
+    }
+
+    .figures {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .figures > div {
+        background-color: #f1f1f1;
+        padding-right: 5px;
+        padding-left: 5px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        margin-right: 5px;
+        margin-left: 5px;
+        min-width: 450px;
+        border-radius: 5px;
+    }
+
+    .videoflex {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .videoflex > div {
+        padding-right: 5px;
+        padding-left: 5px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        margin-right: 5px;
+        margin-left: 5px;
+        min-width: 450px;
+        border-radius: 5px;
+        position: relative;
+    }
+
+    .col {
+        flex: 1;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .col > div {
+        align-self: flex-end;
+    }
+
+    p.captiontitle {
+        font-size: 20px;
+        text-align: left;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        min-width: 96%;
+        max-width: min-content;
+        margin: auto;
+    }
+
+    p.caption {
+        text-align: justify;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        min-width: 96%;
+        max-width: min-content;
+        margin: auto;
+        font-size: 16px;
+    }
+
+    a {
+        text-decoration: none; /*no underline*/
+    }
+
+    p {
+        font-size: 16px;
+    }
+
+    p.abs {
+        margin: auto;
+        width: 80%;
+        max-width: 700px;
+        text-align: justify;
+        text-justify: auto;
+        font-size: 16px;
+        padding-bottom: 20px;
+    }
+
+    .inlinecode {
+        font-family: 'Courier New', Courier, monospace;
+    }
+
+    .code {
+        font-family: 'Courier New', Courier, monospace;
+        background-color: #f5f5f5;
+        padding: 14px;
+        border-radius: 5px;
+        text-align: left;
+        white-space: 1em;
+        max-width: min-content;
+        font-size: 16px;
+    }
+
+    .email {
+        font-family:'Courier New', Courier, monospace;
+        font-size: 16px;
+    }
+</style>
+
+<script src=""></script>
+
+<body>
+    <div class="" style="margin: auto; max-width: 87vw;">
+        <div class="header" style="margin-top: 20px;">
+            <h1 style="text-align: center;">LowKeyEMG: Electromyographic typing with a reduced keyset</h1>
+        </div>
+        <div class="author">
+            <div>
+                Johannes Y <br>Lee<sup>*1</sup><br><div class="email">{johanneslee}<sup>+</sup></div>
+            </div>
+            <div>
+                Derek <br>Xiao<sup>*1</sup><div class="email">{derekxiao93}<sup>+</sup></div>
+            </div>
+            <div>
+                Shreyas <br>Kaasyap<sup>*1</sup><div class="email">{skaasyap}<sup>+</sup></div>
+            </div>
+            <div>
+                Nima R <br>Hadidi<sup>1</sup><div class="email">{nhadidi}<sup>+</sup></div>
+            </div>
+            <div>
+                John L <br>Zhou<sup>1</sup><div class="email">{johnzhou}<sup>+</sup></div>
+            </div>
+            <div>
+                Jacob <br>Cunningham<sup>1</sup><div class="email">{jocunningham}<sup>+</sup></div>
+            </div>
+            <div>
+                Rakshith R <br>Gore<sup>1</sup><div class="email">{rakshithrgore}<sup>+</sup></div>
+            </div>
+            <div>
+                Deniz O <br>Eren<sup>1</sup><div class="email">{deren}<sup>+</sup></div>
+            </div>
+            <div>
+                <a href="https://www.kaolab.org/">Jonathan C <br>Kao</a><sup>1</sup><div class="email">{kao}<sup>&</sup></div>
+            </div>
+        </div>
+        <div class="header">
+            <p style="text-align: center; margin-top: 0%;">
+                <span style="font-family: 'Courier New', Courier, monospace;"><sup>+</sup>@g.ucla.edu, <sup>&</sup>@seas.ucla.edu.</span>
+                <sup>*</sup>These authors contributed equally to this work.
+                <sup>1</sup>University of California, Los Angeles.
+            </p>
+        </div>
+        <div class="header">
+            <h2 style="text-align: center; margin-top: 16px;">
+                <a href="https://arxiv.org">
+                    arXiv
+                </a>
+            </p>
+        </div>
+
+        <div class="summary">
+            <div style="flex: 30 2 500px;">
+                <p class="captiontitle" style="font-family: Comic Sans MS; max-width: min-content;">
+                    <strong>TL;DR</strong>: LowKeyEMG is a real-time interface that uses <a href="https://github.com/BlinkDL/RWKV-LM">RWKV</a> to enable efficient one-handed text entry from only 7 (or fewer) sEMG-decoded gestures, achieving up to 98.2% top-3 word accuracy. In real-time experiments, participants achieved average typing speeds of 23.3 WPM.
+                </p>
+            </div>
+            <div style="flex: 70 1 600px;">
+                <object class="">
+                    <embed src="svg/lowkeyemg_fig_overview2.svg">
+                </object>
+            </div>
+        </div>
+
+
+
+        <div class="header">
+            <h2 style="text-align: center;"><a name="Abstract"></a>Abstract</h2>
+        </div>
+        <p class="abs">
+            We introduce LowKeyEMG, a real-time human-computer interface that enables efficient text entry using only 7 gesture classes decoded from surface electromyography (sEMG).
+            Prior work has attempted full-alphabet decoding from sEMG, but decoding large character sets remains unreliable, especially for individuals with motor impairments.
+            Instead, LowKeyEMG reduces the English alphabet to 4 gesture keys, with 3 more for space and system interaction, to reliably translate simple one-handed gestures into text, leveraging the recurrent transformer-based language model RWKV for efficient computation.
+            In real-time experiments, participants achieved average one-handed keyboardless typing speeds of 23.3 words per minute with LowKeyEMG, and improved gesture efficiency by 17% (relative to typed phrase length).
+            When typing with only 7 keys, LowKeyEMG can achieve 98.2% top-3 word accuracy, demonstrating that this low-key typing paradigm can maintain practical communication rates.
+            Our results have implications for assistive technologies and any interface where input bandwidth is constrained.
+        </p>
+
+        <div class="videoflex">
+            <div class="col">
+                <p style="text-align: justify;"><strong>Supplementary Video 1</strong>:
+                    Participant H1 performs the typing task using LowKeyEMG with 4 alphabetic keys, 1 space key, 1 select key, and 1 undo key.
+                    Each of 7 one-handed gestures is mapped to 1 key.
+                    H1 types 3 repetitions of a phrase under conditions C: completion+context, A: base, and B: completion, respectively.
+                </p>
+                <div>
+                    <video width="100%" muted="" controls="">
+                        <source src="videos/LowKeyEMG_SupplementaryVideo1.mp4" type="video/mp4">
+                    </video>
+                </div>
+            </div>
+            <div class="col">
+                <p style="text-align: justify;"><strong>Supplementary Video 2</strong>:
+                    A user types phrases using 2 alphabetic keys, 1 space key, 1 select key, and 1 undo key, in direct input mode.
+                    The context is reset to “<span class="inlinecode">&lt;|endoftext|&gt;</span>” after every phrase.
+                    Word completion is enabled and distance-1 matching is off.
+                </p>
+                <div>
+                    <video width="100%" muted="" controls="">
+                        <source src="videos/LowKeyEMG_SupplementaryVideo2.mp4" type="video/mp4">
+                    </video>
+                </div>
+            </div>
+        </div>
+
+        <div style="min-height: 10px;"></div>
+
+        <h2><a name="Methods"></a>Methods</h2>
+        <p>
+            <ul>
+                <li>Recurrent form of (L)LM <a href="https://github.com/BlinkDL/RWKV-LM">RWKV</a> enables fast <a href="#Algorithm">beam search</a> (20 ± 17 ms, Nvidia RTX 3070 Ti Laptop).</li>
+                <ul>
+                    <li>Recurrent form → computation time of next token probabilities does not scale with context length.</li>
+                </ul>
+                <li>We decode 7 gestures from surface electromyography (sEMG) in real-time → output natural language.</li>
+                <ul>
+                    <li>Small number of gestures is compatible with one-handed or motor-impaired typing.</li>
+                </ul>
+                <li>Participants typed phrases to measure typing speed. We compared participants' typing speed under 3 conditions:</li>
+                <ul>
+                    <li>LowKeyEMG-base: User must finish typing each word before selection; selection may include multiple words.</li>
+                    <li>LowKeyEMG-completion: User can select candidate phrases that start with the typed characters or are close to the typed characters.</li>
+                    <li>LowKeyEMG-completion+context: LowKeyEMG-completion, and also the prior context of each phrase is input to the LM.</li>
+                    <ul>
+                        <li>This can show the benefits of RWKV's recurrent context window.</li>
+                    </ul>
+                </ul>
+            </ul>
+        </p>
+
+        <h2><a name="ExperimentalResults"></a>Experimental results</h2>
+        <p>
+            <ul>
+                <li>Three experimental participants achieve average typing speeds of up to 23.3 words per minute (wpm).</li>
+                <li>Typing is feasible with as few as 2 or 3 alphabetical keys.</li>
+                <li>In simulation, LowKeyEMG with RWKV vastly outperforms searching using a 4-gram LM.</li>
+            </ul>
+        </p>
+
+        <div class="figures" style="padding-top: 5px;">
+            <div style="flex-grow: 60;">
+                <p class="captiontitle">
+                    <strong>Experimental performance</strong>
+                </p>
+                <embed src="svg/lowkeyemg_fig_wpm.svg" style="padding-left: 10px; padding-right: 10px;">
+                <p class="caption">
+                    <strong>(a)</strong> Typing speeds across three conditions for the 3 participants, A: LowKeyEMG-base, B: LowkeyEMG-completion, C: LowKeyEMG-completion+context. 
+                    Lines connect the same phrase typed in each condition.
+                    Purple triangle: mean, orange bar: median. One-sided Wilcoxon signed-rank test: p &lt; 0.05, **0.01, ***0.001.
+                    <strong>(b)</strong> Participants achieved reduced GPC (with and without error gestures) with word completion and context.  
+                    Colors represent whether each gesture corresponded to a correct key (blue), incorrect key (shaded red), or undo of an incorrect key (solid red).
+                </p>
+            </div>
+            <div style="flex-grow: 40;">
+                <p class="captiontitle">
+                    <strong>Participant words per minute (wpm)</strong> 
+                </p>
+                <embed src="svg/lowkeyemg_tab_wpm.svg" style="padding-left: 10px; padding-right: 10px; padding-top: 15px;">
+                <p class="caption">
+                    Typing Speed for 3 LowKeyEMG conditions, in words per minute (wpm, mean ± std).
+                </p>
+            </div>
+        </div>
+
+        <div class="figures">
+            <div style="flex-grow: 45;">
+                <p class="captiontitle">
+                    <strong>Closed loop one-handed typing selection statistics</strong> 
+                </p>
+                <embed src="svg/lowkeyemg_fig_userstats.svg" style="padding-left: 10px; padding-right: 10px;">
+                <p class="caption">
+                    <strong>(a)</strong> The number of gestures before selection is shown for each participant for conditions A: base, B: completion, and C: completion+context.
+                        One-sided rank-sum test: p &lt; *0.05, **0.01, ***0.001. 
+                        All participants select word suggestions significantly sooner with word completion (B), and when RWKV recieves additional passage context (C).
+                    <strong>(b)</strong> Probability distribution of position of selected candidate suggestions aggregated (equally weighted) across participants for conditions A: base, B: completion, and C: completion+context. 
+                        When participants select a word, it is in the top-2 candidates at least 94.8% of the time (condition B). For condition A and C, the selected candidate is in the top-2 97.3% and 98.6% of the time. 
+                </p>
+            </div>
+            <div style="flex-grow: 55;">
+                <p class="captiontitle">
+                    <strong>Simulated results</strong> 
+                </p>
+                <embed src="svg/lowkeyemg_fig_sim_v2.svg" style="padding-left: 10px; padding-right: 10px;">
+                <p class="caption">
+                    <strong>(a)</strong> Cumulative distribution functions of the position of each word among candidates after typing the entirety of each word and a space, using an optimized layout
+                    with 4 alphabetic classes, for LowKeyEMG and a 4-gram word LM.
+                    <strong>(b)</strong> Same as (a), but for optimized layouts of 2-8 alphabetic classes, using LowKeyEMG.
+                    <strong>(c)</strong> Gestures per character (GPC) for a simulated user who minimizes GPC for a 4-gram LM, for LowKeyEMG with alphabetical and
+                    optimized layouts (distance-1 matching on except for 3 classes), and for LowKeyEMG where space selects the top candidate once the next character is typed.
+                </p>
+            </div>
+        </div>
+
+
+
+        <h2 style="font-size: 20px;"><a name="Algorithm"></a>LowKeyEMG beam search</h2>
+        <div class="figures" style="padding-top: 0px;">
+            <div style="flex-grow: 1; max-width: 700px;">
+                <embed src="svg/lowkeyemg_alg_1.svg" style="padding-left: 10px; padding-right: 10px; padding-top: 15px;">
+                <p class="caption"></p>
+            </div>
+        </div>
+
+
+        <h2 style="margin-bottom: -10px;"><a name="Bibtex"></a>BibTeX</h2>
+        <pre>
+            <div class="code">@article{lee2025lowkeyemg<br>    title={{LowKeyEMG: Electromyographic typing with a reduced keyset}}<br>    author={Lee, Johannes Y and Xiao, Derek and Kaasyap, Shreyas <br>        and Hadidi, Nima R and Zhou, John L and Cunningham, Jacob<br>        and Gore, Rakshith R and Eren, Deniz O and Kao, Jonathan C}<br>    year={2025},<br>    journal={arXiv:.......}<br>}</div>
+        </pre>
+
+        <div style="min-height: 100px;"></div>
+    </div>
+
+</body>
+</html>
