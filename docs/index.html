@@ -252,8 +252,8 @@
                 </p>
             </div>
             <div style="flex: 70 1 600px;">
-                <object class="">
-                    <embed src="svg/lowkeyemg_fig_overview2.svg">
+                <object data="svg/lowkeyemg_fig_overview2.svg" type="image/svg+xml">
+                    <img src="svg/lowkeyemg_fig_overview2.svg">
                 </object>
             </div>
         </div>
@@ -329,7 +329,7 @@
             <ul>
                 <li>Three experimental participants achieve average typing speeds of up to 23.3 words per minute (wpm).</li>
                 <li>Typing is feasible with as few as 2 or 3 alphabetical keys.</li>
-                <li>In simulation, LowKeyEMG with RWKV vastly outperforms searching using a 4-gram LM.</li>
+                <li>In simulation, LowKeyEMG with RWKV vastly outperforms searching using a 4-gram word LM.</li>
             </ul>
         </p>
 
@@ -338,7 +338,9 @@
                 <p class="captiontitle">
                     <strong>Experimental performance</strong>
                 </p>
-                <embed src="svg/lowkeyemg_fig_wpm.svg" style="padding-left: 10px; padding-right: 10px;">
+                <object data="svg/lowkeyemg_fig_wpm.svg" type="image/svg+xml" style="padding-left: 10px; padding-right: 10px;">
+                    <img src="svg/lowkeyemg_fig_wpm.svg">
+                </object>
                 <p class="caption">
                     <strong>(a)</strong> Typing speeds across three conditions for the 3 participants, A: LowKeyEMG-base, B: LowkeyEMG-completion, C: LowKeyEMG-completion+context. 
                     Lines connect the same phrase typed in each condition.
@@ -351,7 +353,9 @@
                 <p class="captiontitle">
                     <strong>Participant words per minute (wpm)</strong> 
                 </p>
-                <embed src="svg/lowkeyemg_tab_wpm.svg" style="padding-left: 10px; padding-right: 10px; padding-top: 15px;">
+                <object data="svg/lowkeyemg_tab_wpm.svg" type="image/svg+xml" style="padding-left: 10px; padding-right: 10px; padding-top: 15px;">
+                    <img src="svg/lowkeyemg_tab_wpm.svg">
+                </object>
                 <p class="caption">
                     Typing Speed for 3 LowKeyEMG conditions, in words per minute (wpm, mean ± std).
                 </p>
@@ -363,7 +367,9 @@
                 <p class="captiontitle">
                     <strong>Closed loop one-handed typing selection statistics</strong> 
                 </p>
-                <embed src="svg/lowkeyemg_fig_userstats.svg" style="padding-left: 10px; padding-right: 10px;">
+                <object data="svg/lowkeyemg_fig_userstats.svg" type="image/svg+xml" style="padding-left: 10px; padding-right: 10px;">
+                    <img src="svg/lowkeyemg_fig_userstats.svg">
+                </object>
                 <p class="caption">
                     <strong>(a)</strong> The number of gestures before selection is shown for each participant for conditions A: base, B: completion, and C: completion+context.
                         One-sided rank-sum test: p &lt; *0.05, **0.01, ***0.001. 
@@ -376,12 +382,14 @@
                 <p class="captiontitle">
                     <strong>Simulated results</strong> 
                 </p>
-                <embed src="svg/lowkeyemg_fig_sim_v2.svg" style="padding-left: 10px; padding-right: 10px;">
+                <object data="svg/lowkeyemg_fig_sim_v2.svg" type="image/svg+xml" style="padding-left: 10px; padding-right: 10px;">
+                    <img src="svg/lowkeyemg_fig_sim_v2.svg">
+                </object>
                 <p class="caption">
                     <strong>(a)</strong> Cumulative distribution functions of the position of each word among candidates after typing the entirety of each word and a space, using an optimized layout
                     with 4 alphabetic classes, for LowKeyEMG and a 4-gram word LM.
                     <strong>(b)</strong> Same as (a), but for optimized layouts of 2-8 alphabetic classes, using LowKeyEMG.
-                    <strong>(c)</strong> Gestures per character (GPC) for a simulated user who minimizes GPC for a 4-gram LM, for LowKeyEMG with alphabetical and
+                    <strong>(c)</strong> Gestures per character (GPC) for a simulated user who minimizes GPC for a 4-gram word LM, for LowKeyEMG with alphabetical and
                     optimized layouts (distance-1 matching on except for 3 classes), and for LowKeyEMG where space selects the top candidate once the next character is typed.
                 </p>
             </div>
@@ -392,7 +400,9 @@
         <h2 style="font-size: 20px;"><a name="Algorithm"></a>LowKeyEMG beam search</h2>
         <div class="figures" style="padding-top: 0px; justify-content: left;">
             <div style="flex-grow: 1; max-width: 700px;">
-                <embed src="svg/lowkeyemg_alg_1.svg" style="padding-left: 10px; padding-right: 10px; padding-top: 15px;">
+                <object data="svg/lowkeyemg_alg_1.svg" type="image/svg+xml" style="padding-left: 10px; padding-right: 10px; padding-top: 15px;">
+                    <img src="svg/lowkeyemg_alg_1.svg">
+                </object>
                 <p class="caption"></p>
             </div>
         </div>
